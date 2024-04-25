@@ -21,3 +21,6 @@ Step9:- move to frontend
 Step10:- move backend
           npm install 
           npm start
+
+step11:- setup a mongodb compass server
+step 12:- in the books collection upload all the list of books that you want to display
